@@ -1649,6 +1649,10 @@ body {
 .cid-rFmuYVw2W6 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rFmuYVw2W6 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rFmuYVw2W6 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rFmuYVw2W6 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rFmuYVw2W6 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1745,6 +1749,10 @@ body {
   .cid-rFmuYVw2W6 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rFmuYVw2W6 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rFmuYVw2W6 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rFmuYVw2W6 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rFmuYVw2W6 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1811,18 +1819,6 @@ body {
 .cid-rFmv5nosSP {
   background-image: url("../../../assets/images/yy-eve3-2000x1244.png");
 }
-.cid-rFrBEWDPtr {
-  background: #ffffff;
-}
-.cid-rFrBEWDPtr .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rFrBEWDPtr .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rFrP5bw4ar {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1832,6 +1828,10 @@ body {
   color: #767676;
 }
 .cid-rFrP5bw4ar H1 {
+  color: #e4d295;
+}
+.cid-rFrP5bw4ar .mbr-text,
+.cid-rFrP5bw4ar .mbr-section-btn {
   color: #e4d295;
 }
 .cid-rFmx9Z0wY4 {
