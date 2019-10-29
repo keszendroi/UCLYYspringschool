@@ -1816,6 +1816,21 @@ body {
 .cid-rFmuYVw2W6 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rGi4B7VgF7 {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #353230;
+}
+.cid-rGi4B7VgF7 P {
+  color: #767676;
+}
+.cid-rGi4B7VgF7 H1 {
+  color: #e4d295;
+}
+.cid-rGi4B7VgF7 .mbr-text,
+.cid-rGi4B7VgF7 .mbr-section-btn {
+  color: #e4d295;
+}
 .cid-rFmv5nosSP {
   background-image: url("../../../assets/images/yy-eve3-2000x1244.png");
 }
